@@ -1,0 +1,124 @@
+@font-face {
+	font-family: "Flaticon";
+	src: url("../fonts/flaticon.eot");
+	src: url("../fonts/flaticon.eot#iefix") format("embedded-opentype"),
+	url("../fonts/flaticon.woff") format("woff"),
+	url("../fonts/flaticon.ttf") format("truetype"),
+	url("../fonts/flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {
+	font-family: Flaticon;
+	font-size: 20px;
+	font-style: normal;
+	margin-left: 0;
+}.flaticon-airplane105:before {
+	content: "\e000";
+}
+.flaticon-airplane68:before {
+	content: "\e001";
+}
+.flaticon-airplane73:before {
+	content: "\e002";
+}
+.flaticon-avatar19:before {
+	content: "\e003";
+}
+.flaticon-award18:before {
+	content: "\e004";
+}
+.flaticon-building78:before {
+	content: "\e005";
+}
+.flaticon-check30:before {
+	content: "\e006";
+}
+.flaticon-christmaspresent11:before {
+	content: "\e007";
+}
+.flaticon-cube12:before {
+	content: "\e008";
+}
+.flaticon-data110:before {
+	content: "\e009";
+}
+.flaticon-delivery21:before {
+	content: "\e00a";
+}
+.flaticon-delivery36:before {
+	content: "\e00b";
+}
+.flaticon-delivery7:before {
+	content: "\e00c";
+}
+.flaticon-garage1:before {
+	content: "\e00d";
+}
+.flaticon-graduate33:before {
+	content: "\e00e";
+}
+.flaticon-home168:before {
+	content: "\e00f";
+}
+.flaticon-international11:before {
+	content: "\e010";
+}
+.flaticon-international15:before {
+	content: "\e011";
+}
+.flaticon-job2:before {
+	content: "\e012";
+}
+.flaticon-laptopcomputer14:before {
+	content: "\e013";
+}
+.flaticon-logistics2:before {
+	content: "\e014";
+}
+.flaticon-logistics3:before {
+	content: "\e015";
+}
+.flaticon-logistics4:before {
+	content: "\e016";
+}
+.flaticon-package7:before {
+	content: "\e017";
+}
+.flaticon-payment7:before {
+	content: "\e018";
+}
+.flaticon-plane12:before {
+	content: "\e019";
+}
+.flaticon-present23:before {
+	content: "\e01a";
+}
+.flaticon-public11:before {
+	content: "\e01b";
+}
+.flaticon-road41:before {
+	content: "\e01c";
+}
+.flaticon-sailor4:before {
+	content: "\e01d";
+}
+.flaticon-sea9:before {
+	content: "\e01e";
+}
+.flaticon-transport195:before {
+	content: "\e01f";
+}
+.flaticon-triangular42:before {
+	content: "\e020";
+}
+.flaticon-two205:before {
+	content: "\e021";
+}
+.flaticon-users6:before {
+	content: "\e022";
+}
+.flaticon-wrench104:before {
+	content: "\e023";
+}

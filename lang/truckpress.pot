@@ -1,0 +1,629 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: TruckPress Visual Composer Addons\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Tue Apr 12 2016 11:38:24 GMT+0700 (SE Asia Standard Time)\n"
+"POT-Revision-Date: Tue Apr 12 2016 11:38:26 GMT+0700 (SE Asia Standard Time)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Name of the plugin
+msgid "TruckPress Visual Composer Addons"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://steelthemes.com"
+msgstr ""
+
+#. Description of the plugin
+msgid "Extra elements for Visual Composer. It was built for TruckPress theme."
+msgstr ""
+
+#. Author of the plugin
+msgid "Steel Themes"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://steelthemes.com"
+msgstr ""
+
+#: ../inc/visual-composer.php:664
+msgid "Overlay"
+msgstr ""
+
+#: ../inc/visual-composer.php:666 ../inc/visual-composer.php:674
+msgid "Design Options"
+msgstr ""
+
+#: ../inc/visual-composer.php:668
+msgid "Select an overlay color for this row"
+msgstr ""
+
+#: ../inc/visual-composer.php:672
+msgid "Enable Parallax effect"
+msgstr ""
+
+#: ../inc/visual-composer.php:675
+msgid "Enable"
+msgstr ""
+
+#: ../inc/visual-composer.php:676
+msgid ""
+"Enable this option if you want to have parallax effect on this row. When you "
+"enable this option, please set background repeat option as \"Theme defaults\" "
+"to make it works."
+msgstr ""
+
+#: ../inc/visual-composer.php:685
+msgid "TruckPress Heading"
+msgstr ""
+
+#: ../inc/visual-composer.php:688 ../inc/visual-composer.php:732 ../inc/visual-
+#: composer.php:769 ../inc/visual-composer.php:813 ../inc/visual-composer.php:826 
+#: ../inc/visual-composer.php:854 ../inc/visual-composer.php:867 ../inc/visual-
+#: composer.php:888 ../inc/visual-composer.php:922 ../inc/visual-composer.php:935 
+#: ../inc/visual-composer.php:971 ../inc/visual-composer.php:1022 ../inc/visual-
+#: composer.php:1044 ../inc/visual-composer.php:1079 ../inc/visual-composer.php:
+#: 1101 ../inc/visual-composer.php:1148 ../inc/visual-composer.php:1173 ..
+#: /inc/visual-composer.php:1211 ../inc/visual-composer.php:1260 ../inc/visual-
+#: composer.php:1301 ../inc/visual-composer.php:1350 ../inc/visual-composer.php:
+#: 1401 ../inc/visual-composer.php:1414 ../inc/visual-composer.php:1433 ..
+#: /inc/visual-composer.php:1533 ../inc/visual-composer.php:1645
+msgid "Content"
+msgstr ""
+
+#: ../inc/visual-composer.php:693 ../inc/visual-composer.php:737 ../inc/visual-
+#: composer.php:774 ../inc/visual-composer.php:859 ../inc/visual-composer.php:901 
+#: ../inc/visual-composer.php:927 ../inc/visual-composer.php:995 ../inc/visual-
+#: composer.php:1057 ../inc/visual-composer.php:1128 ../inc/visual-composer.php:
+#: 1455 ../inc/visual-composer.php:1488 ../inc/visual-composer.php:1538
+msgid "Title"
+msgstr ""
+
+#: ../inc/visual-composer.php:696 ../inc/visual-composer.php:740 ../inc/visual-
+#: composer.php:777 ../inc/visual-composer.php:862 ../inc/visual-composer.php:930
+msgid "Enter the title content"
+msgstr ""
+
+#: ../inc/visual-composer.php:701 ../inc/visual-composer.php:745 ../inc/visual-
+#: composer.php:782
+msgid "Text Align"
+msgstr ""
+
+#: ../inc/visual-composer.php:704 ../inc/visual-composer.php:748 ../inc/visual-
+#: composer.php:785 ../inc/visual-composer.php:988
+msgid "Left"
+msgstr ""
+
+#: ../inc/visual-composer.php:705 ../inc/visual-composer.php:749 ../inc/visual-
+#: composer.php:786
+msgid "Center"
+msgstr ""
+
+#: ../inc/visual-composer.php:706 ../inc/visual-composer.php:750 ../inc/visual-
+#: composer.php:787 ../inc/visual-composer.php:989
+msgid "Right"
+msgstr ""
+
+#: ../inc/visual-composer.php:712
+msgid "Title Color"
+msgstr ""
+
+#: ../inc/visual-composer.php:714 ../inc/visual-composer.php:1123 ../inc/visual-
+#: composer.php:1234 ../inc/visual-composer.php:1242 ../inc/visual-composer.php:
+#: 1275 ../inc/visual-composer.php:1283 ../inc/visual-composer.php:1316 ..
+#: /inc/visual-composer.php:1324 ../inc/visual-composer.php:1331 ../inc/visual-
+#: composer.php:1373 ../inc/visual-composer.php:1381 ../inc/visual-composer.php:
+#: 1449 ../inc/visual-composer.php:1482
+msgid "Yes"
+msgstr ""
+
+#: ../inc/visual-composer.php:719 ../inc/visual-composer.php:756 ../inc/visual-
+#: composer.php:793 ../inc/visual-composer.php:834 ../inc/visual-composer.php:875 
+#: ../inc/visual-composer.php:909 ../inc/visual-composer.php:957 ../inc/visual-
+#: composer.php:1030 ../inc/visual-composer.php:1087 ../inc/visual-composer.php:
+#: 1136 ../inc/visual-composer.php:1161 ../inc/visual-composer.php:1198 ..
+#: /inc/visual-composer.php:1248 ../inc/visual-composer.php:1289 ../inc/visual-
+#: composer.php:1337 ../inc/visual-composer.php:1387 ../inc/visual-composer.php:
+#: 1421 ../inc/visual-composer.php:1438 ../inc/visual-composer.php:1622
+msgid "Extra class name"
+msgstr ""
+
+#: ../inc/visual-composer.php:722 ../inc/visual-composer.php:759 ../inc/visual-
+#: composer.php:796 ../inc/visual-composer.php:837 ../inc/visual-composer.php:878 
+#: ../inc/visual-composer.php:912 ../inc/visual-composer.php:960 ../inc/visual-
+#: composer.php:1033 ../inc/visual-composer.php:1090 ../inc/visual-composer.php:
+#: 1139 ../inc/visual-composer.php:1163 ../inc/visual-composer.php:1201 ..
+#: /inc/visual-composer.php:1251 ../inc/visual-composer.php:1291 ../inc/visual-
+#: composer.php:1340 ../inc/visual-composer.php:1390 ../inc/visual-composer.php:
+#: 1423 ../inc/visual-composer.php:1441 ../inc/visual-composer.php:1624
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: ../inc/visual-composer.php:729
+msgid "TruckPress News Heading "
+msgstr ""
+
+#: ../inc/visual-composer.php:766
+msgid "TruckPress Toggle Heading "
+msgstr ""
+
+#: ../inc/visual-composer.php:801 ../inc/visual-composer.php:842 ../inc/visual-
+#: composer.php:950 ../inc/visual-composer.php:1072
+msgid "Button Link"
+msgstr ""
+
+#: ../inc/visual-composer.php:810
+msgid "TruckPress History "
+msgstr ""
+
+#: ../inc/visual-composer.php:818
+msgid "Date"
+msgstr ""
+
+#: ../inc/visual-composer.php:821
+msgid "Enter the date"
+msgstr ""
+
+#: ../inc/visual-composer.php:829
+msgid "Enter the content"
+msgstr ""
+
+#: ../inc/visual-composer.php:851
+msgid "TruckPress Location"
+msgstr ""
+
+#: ../inc/visual-composer.php:870 ../inc/visual-composer.php:938 ../inc/visual-
+#: composer.php:1025 ../inc/visual-composer.php:1082
+msgid "Enter the content of this box"
+msgstr ""
+
+#: ../inc/visual-composer.php:885
+msgid "TruckPress Icon Services"
+msgstr ""
+
+#: ../inc/visual-composer.php:893 ../inc/visual-composer.php:943 ../inc/visual-
+#: composer.php:977 ../inc/visual-composer.php:1050 ../inc/visual-composer.php:1106
+msgid "Icon"
+msgstr ""
+
+#: ../inc/visual-composer.php:896
+msgid "Enter icon"
+msgstr ""
+
+#: ../inc/visual-composer.php:904
+msgid "Enter the title"
+msgstr ""
+
+#: ../inc/visual-composer.php:919
+msgid "TruckPress Support"
+msgstr ""
+
+#: ../inc/visual-composer.php:968
+msgid "Icon Box"
+msgstr ""
+
+#: ../inc/visual-composer.php:984
+msgid "Icon Position"
+msgstr ""
+
+#: ../inc/visual-composer.php:987
+msgid "Top"
+msgstr ""
+
+#: ../inc/visual-composer.php:1002
+msgid "Link"
+msgstr ""
+
+#: ../inc/visual-composer.php:1009
+msgid "Style"
+msgstr ""
+
+#: ../inc/visual-composer.php:1012
+msgid "Icon Box "
+msgstr ""
+
+#: ../inc/visual-composer.php:1013
+msgid "Icon Box 2"
+msgstr ""
+
+#: ../inc/visual-composer.php:1014
+msgid "Icon Box 3"
+msgstr ""
+
+#: ../inc/visual-composer.php:1015
+msgid "Icon Box 4"
+msgstr ""
+
+#: ../inc/visual-composer.php:1016
+msgid "Icon Box 5"
+msgstr ""
+
+#: ../inc/visual-composer.php:1041
+msgid "Service Box"
+msgstr ""
+
+#: ../inc/visual-composer.php:1064 ../inc/visual-composer.php:1406
+msgid "Image"
+msgstr ""
+
+#: ../inc/visual-composer.php:1067 ../inc/visual-composer.php:1409 ../inc/visual-
+#: composer.php:1590
+msgid "Select an image from media library"
+msgstr ""
+
+#: ../inc/visual-composer.php:1098
+msgid "Counter"
+msgstr ""
+
+#: ../inc/visual-composer.php:1113
+msgid "Counter Value"
+msgstr ""
+
+#: ../inc/visual-composer.php:1116
+msgid "Input integer value for counting"
+msgstr ""
+
+#: ../inc/visual-composer.php:1121
+msgid "Counter Plus"
+msgstr ""
+
+#: ../inc/visual-composer.php:1131
+msgid "Enter the title of this box"
+msgstr ""
+
+#: ../inc/visual-composer.php:1145
+msgid "Services Grid"
+msgstr ""
+
+#: ../inc/visual-composer.php:1153
+msgid "Number Of Services"
+msgstr ""
+
+#: ../inc/visual-composer.php:1156
+msgid "How many services to show? Enter number or word \"All\"."
+msgstr ""
+
+#: ../inc/visual-composer.php:1170
+msgid "Team"
+msgstr ""
+
+#: ../inc/visual-composer.php:1178
+msgid "Total members"
+msgstr ""
+
+#: ../inc/visual-composer.php:1181
+msgid "Set numbers of members to show."
+msgstr ""
+
+#: ../inc/visual-composer.php:1186
+msgid "Columns"
+msgstr ""
+
+#: ../inc/visual-composer.php:1189
+msgid "3 columns"
+msgstr ""
+
+#: ../inc/visual-composer.php:1190
+msgid "4 columns"
+msgstr ""
+
+#: ../inc/visual-composer.php:1191
+msgid "2 columns"
+msgstr ""
+
+#: ../inc/visual-composer.php:1193
+msgid "Select numbers of columns you want to display."
+msgstr ""
+
+#: ../inc/visual-composer.php:1208
+msgid "Posts Carousel"
+msgstr ""
+
+#: ../inc/visual-composer.php:1216 ../inc/visual-composer.php:1355
+msgid "Total posts"
+msgstr ""
+
+#: ../inc/visual-composer.php:1219 ../inc/visual-composer.php:1358
+msgid "Set numbers of posts to show."
+msgstr ""
+
+#: ../inc/visual-composer.php:1224 ../inc/visual-composer.php:1363
+msgid "Category"
+msgstr ""
+
+#: ../inc/visual-composer.php:1227 ../inc/visual-composer.php:1366
+msgid "Select a category to get posts."
+msgstr ""
+
+#: ../inc/visual-composer.php:1232 ../inc/visual-composer.php:1273 ../inc/visual-
+#: composer.php:1314 ../inc/visual-composer.php:1371
+msgid "Slider autoplay"
+msgstr ""
+
+#: ../inc/visual-composer.php:1235 ../inc/visual-composer.php:1276 ../inc/visual-
+#: composer.php:1317 ../inc/visual-composer.php:1374
+msgid "Enables autoplay mode."
+msgstr ""
+
+#: ../inc/visual-composer.php:1240 ../inc/visual-composer.php:1379
+msgid "Hide navigation"
+msgstr ""
+
+#: ../inc/visual-composer.php:1243 ../inc/visual-composer.php:1284 ../inc/visual-
+#: composer.php:1332 ../inc/visual-composer.php:1382
+msgid "If \"YES\" prev/next control will be removed."
+msgstr ""
+
+#: ../inc/visual-composer.php:1257
+msgid "Testimonials Carousel"
+msgstr ""
+
+#: ../inc/visual-composer.php:1265
+msgid "Number Of Testimonials"
+msgstr ""
+
+#: ../inc/visual-composer.php:1268
+msgid "How many testimonials to show? Enter number or word \"All\"."
+msgstr ""
+
+#: ../inc/visual-composer.php:1281 ../inc/visual-composer.php:1329
+msgid "Hide pagination"
+msgstr ""
+
+#: ../inc/visual-composer.php:1298
+msgid "Testimonials Carousel 2"
+msgstr ""
+
+#: ../inc/visual-composer.php:1306
+msgid "Total testimonial"
+msgstr ""
+
+#: ../inc/visual-composer.php:1309
+msgid "Set numbers of testimonial to show."
+msgstr ""
+
+#: ../inc/visual-composer.php:1322
+msgid "Dark Skin"
+msgstr ""
+
+#: ../inc/visual-composer.php:1347
+msgid "Posts Carousel 2"
+msgstr ""
+
+#: ../inc/visual-composer.php:1398
+msgid "Client"
+msgstr ""
+
+#: ../inc/visual-composer.php:1430
+msgid "Truck Shipment"
+msgstr ""
+
+#: ../inc/visual-composer.php:1439
+msgid "General"
+msgstr ""
+
+#: ../inc/visual-composer.php:1446
+msgid "Hide Shipment Numbers"
+msgstr ""
+
+#: ../inc/visual-composer.php:1447 ../inc/visual-composer.php:1456 ../inc/visual-
+#: composer.php:1464 ../inc/visual-composer.php:1472
+msgid "By Shipment Numbers"
+msgstr ""
+
+#: ../inc/visual-composer.php:1450
+msgid "If \"YES\" Shipment Numbers Group will be removed."
+msgstr ""
+
+#: ../inc/visual-composer.php:1463
+msgid "Description"
+msgstr ""
+
+#: ../inc/visual-composer.php:1471 ../inc/visual-composer.php:1512
+msgid "Button Text"
+msgstr ""
+
+#: ../inc/visual-composer.php:1474 ../inc/visual-composer.php:1515 ..
+#: /inc/shortcodes.php:1370 ../inc/shortcodes.php:1371
+msgid "Track Now"
+msgstr ""
+
+#: ../inc/visual-composer.php:1479
+msgid "Hide Reference"
+msgstr ""
+
+#: ../inc/visual-composer.php:1480 ../inc/visual-composer.php:1489 ../inc/visual-
+#: composer.php:1497 ../inc/visual-composer.php:1505 ../inc/visual-composer.php:
+#: 1513
+msgid "By Reference"
+msgstr ""
+
+#: ../inc/visual-composer.php:1483
+msgid "If \"YES\" Reference Group will be removed."
+msgstr ""
+
+#: ../inc/visual-composer.php:1496
+msgid "From Year"
+msgstr ""
+
+#: ../inc/visual-composer.php:1504
+msgid "To Year"
+msgstr ""
+
+#: ../inc/visual-composer.php:1530
+msgid "Contact Box"
+msgstr ""
+
+#: ../inc/visual-composer.php:1545 ../inc/visual-composer.php:1638
+msgid "Address"
+msgstr ""
+
+#: ../inc/visual-composer.php:1552
+msgid "Phone"
+msgstr ""
+
+#: ../inc/visual-composer.php:1559
+msgid "Email"
+msgstr ""
+
+#: ../inc/visual-composer.php:1566
+msgid "Website"
+msgstr ""
+
+#: ../inc/visual-composer.php:1572
+msgid "Url"
+msgstr ""
+
+#: ../inc/visual-composer.php:1579
+msgid "Google MultiMaps"
+msgstr ""
+
+#: ../inc/visual-composer.php:1587
+msgid "Marker"
+msgstr ""
+
+#: ../inc/visual-composer.php:1594
+msgid "Background Color Map"
+msgstr ""
+
+#: ../inc/visual-composer.php:1601
+msgid "Width(px)"
+msgstr ""
+
+#: ../inc/visual-composer.php:1608
+msgid "Height(px)"
+msgstr ""
+
+#: ../inc/visual-composer.php:1615
+msgid "Zoom"
+msgstr ""
+
+#: ../inc/visual-composer.php:1630
+msgid "Google Map"
+msgstr ""
+
+#: ../inc/visual-composer.php:1661
+msgid "Full Size"
+msgstr ""
+
+#: ../inc/visual-composer.php:1702
+msgid "All"
+msgstr ""
+
+#: ../inc/visual-composer.php:1730
+msgid "Select a form"
+msgstr ""
+
+#: ../inc/visual-composer.php:1767
+msgid "Quick Search"
+msgstr ""
+
+#: ../inc/shortcodes.php:693 ../inc/shortcodes.php:1131 ../inc/shortcodes.php:1228
+msgid "Read More"
+msgstr ""
+
+#: ../inc/shortcodes.php:1086
+msgid " comment"
+msgstr ""
+
+#: ../inc/shortcodes.php:1088
+msgid " comments"
+msgstr ""
+
+#: ../inc/shortcodes.php:1418
+msgid "Order Location:"
+msgstr ""
+
+#: ../inc/shortcodes.php:1438
+msgid "Between:"
+msgstr ""
+
+#: ../inc/shortcodes.php:1439
+msgid "And:"
+msgstr ""
+
+#: ../inc/shortcodes.php:1825 ../inc/shortcodes.php:1833
+msgid "Can not connect to Google Maps APIs"
+msgstr ""
+
+#: ../inc/shortcodes.php:1851
+msgid "No location found for the entered address."
+msgstr ""
+
+#: ../inc/shortcodes.php:1853
+msgid "Invalid request. Did you enter an address?"
+msgstr ""
+
+#: ../inc/shortcodes.php:1855
+msgid ""
+"Something went wrong while retrieving your map, please ensure you have "
+"entered the short code correctly."
+msgstr ""
+
+#: ../inc/shortcodes.php:1858
+msgid "Unable to contact Google API service."
+msgstr ""
+
+#: ../inc/shortcodes.php:1920
+msgid "Order Number"
+msgstr ""
+
+#: ../inc/shortcodes.php:1927
+msgid "Order Name"
+msgstr ""
+
+#: ../inc/shortcodes.php:1934
+msgid "Order Notes"
+msgstr ""
+
+#: ../inc/shortcodes.php:1941
+msgid "Customer Notes"
+msgstr ""
+
+#: ../inc/shortcodes.php:1946
+msgid "Order Payment"
+msgstr ""
+
+#: ../inc/shortcodes.php:1947
+msgid "Payment Completed"
+msgstr ""
+
+#: ../inc/shortcodes.php:1950
+msgid "Order Status"
+msgstr ""
+
+#: ../inc/shortcodes.php:1957
+msgid "Order Location"
+msgstr ""
+
+#: ../inc/shortcodes.php:1964
+msgid "Order Updated"
+msgstr ""
+
+#: ../inc/shortcodes.php:1971
+msgid "Add Note"
+msgstr ""
+
+#: ../inc/shortcodes.php:2015
+msgid "There are no order."
+msgstr ""
